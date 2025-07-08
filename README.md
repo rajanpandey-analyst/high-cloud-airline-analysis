@@ -24,13 +24,15 @@ Analyze airline flight performance over time to identify key factors causing hig
 ![Dashboard screenshot](https://github.com/user-attachments/assets/f091dd7e-e317-4739-9172-ad70b437297b)
 
 ## 📂 Files in This Repo
-- `cleaned_data.xlsx` (compressed if needed)  
-- `dashboard.pbix`  
-- `dashboard.png`  
-- `queries.sql`  
+- `High Cloud Airline Dashboard Presentation.ppt
+- `High Cloud Airline.xlsx` (compressed)  
+- `High Cloud Airline(Power BI).pbix
+- `High Cloud Airline Project Tableau.twbx
+- `dashboard Screenshot.png`  
+- `High_Cloud_Airline_MySQL.sql`  
 - `README.md`
 
 ## 🙌 Author
-**Rajan Kumar Pandey**  
+**Rajan Pandey**  
 📧 rajanpandey54321@gmail.com  
 📍 Delhi NCR, India
