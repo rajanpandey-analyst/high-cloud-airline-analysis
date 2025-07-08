@@ -7,7 +7,7 @@ Analyze airline flight performance over time to identify key factors causing hig
 - **Excel**: Data cleaning & transformation  
 - **SQL**: Querying and analysis  
 - **Power BI**: Dashboard creation  
-- **Tableau** (Optional): For additional visual insights
+- **Tableau**: For additional visual insights
 
 ## 📊 Key KPIs Analyzed
 - Cancellation Rate
