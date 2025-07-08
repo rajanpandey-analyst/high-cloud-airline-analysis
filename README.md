@@ -1,27 +1,36 @@
-# ✈️ High Cloud Airline Analysis
+# ✈️ High Cloud Airline Data Analysis
 
 ## 📌 Project Objective
-To analyze airline flight performance and identify factors behind high cancellations and low occupancy rates.
+Analyze airline flight performance over time to identify key factors causing high cancellation rates and low seat occupancy.
 
-## 🛠 Tools & Technologies Used
-- **Excel** – Data cleaning and formatting
-- **SQL** – Data extraction and analysis
-- **Power BI & Tableau** – Interactive dashboards and visualization
+## 🛠️ Tools Used
+- **Excel**: Data cleaning & transformation  
+- **SQL**: Querying and analysis  
+- **Power BI**: Dashboard creation  
+- **Tableau** (Optional): For additional visual insights
 
-## 📊 Key KPIs
+## 📊 Key KPIs Analyzed
 - Cancellation Rate
-- Route-wise Occupancy %
-- Delay Reasons by Day
-- Weekday vs Weekend Performance
+- Occupancy Rate
+- Delay Reasons
+- Route Performance
 
-## ✅ Key Insights
-- Certain routes showed >20% cancellation rate.
-- Overall occupancy rate was 76.8%.
-- Mondays and Fridays had higher delays and lower seat fills.
+## ✅ Outcome
+- Found that only 76.8% of seats were occupied across all flights.
+- Identified high-cancellation routes and days.
+- Suggested optimization of flight routes and scheduling.
 
-## 📈 Outcome
-The insights helped recommend cutting underperforming routes and optimizing scheduling to improve efficiency and profitability.
+## 📸 Dashboard Preview
+![Dashboard screenshot](https://github.com/user-attachments/assets/f091dd7e-e317-4739-9172-ad70b437297b)
 
-## 📸 Dashboard Screenshot
+## 📂 Files in This Repo
+- `cleaned_data.xlsx` (compressed if needed)  
+- `dashboard.pbix`  
+- `dashboard.png`  
+- `queries.sql`  
+- `README.md`
 
-[Dashboard screenshot](https://github.com/user-attachments/assets/fb3ca3d9-8223-4921-b292-e71dc69a90f6)
+## 🙌 Author
+**Rajan Kumar Pandey**  
+📧 rajanpandey54321@gmail.com  
+📍 Delhi NCR, India
