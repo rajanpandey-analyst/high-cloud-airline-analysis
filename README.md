@@ -25,6 +25,3 @@ The insights helped recommend cutting underperforming routes and optimizing sche
 ## 📸 Dashboard Screenshot
 
 [Dashboard screenshot](https://github.com/user-attachments/assets/fb3ca3d9-8223-4921-b292-e71dc69a90f6)
-
-
-## 🗂️ Folder Structure
